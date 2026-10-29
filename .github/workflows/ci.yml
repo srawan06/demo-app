@@ -7,6 +7,6 @@ on:
 
 jobs:
   call-shared-ci:
-    uses: srawan06/shared-workflows/.github/workflows/python-ci.yml@v1
+    uses: srawan06/shared-workflows/.github/workflows/python-ci.yml@v2
     with:
       app-name: demo-app
